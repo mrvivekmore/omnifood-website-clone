@@ -8,7 +8,7 @@ Omnifood Website Clone using HTML and CSS
 
 ### Created by - Vivek More
 
-**Omnifood Website Clone** - [Live Link]()
+**Omnifood Website Clone** - [Live Link](https://omnifood-website-clone.netlify.app/)
 
 ---
 
